@@ -1,0 +1,55 @@
+  @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+/** Caracteristicas do body e container **/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(220, 15%, 55%);
+    min-height: 100vh;
+    min-width: 370px;
+    max-width: 1440px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container {
+    max-width: 370px;
+
+}
+
+/** Pesonalização do Qrcode **/ 
+.code {
+   background-color: #fff;
+   padding: 10px;
+   border-radius: 20px;
+   text-align: center;
+   margin: 0 1rem;
+
+}
+
+.code .qr-img {
+    width: 100%;
+    border-radius: 15px;
+
+}
+
+/** Pesonalização dos textos **/ 
+.info {
+    text-align: center;
+    font-size: 15px;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.info p {
+    color: hsl(220, 15%, 55%);
+    padding: 10px;
+
+}
