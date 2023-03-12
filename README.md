@@ -10,6 +10,6 @@
 
 ---
 
-Foram usados conhecimentos de _Html_ semantico e _Css_ para realizar essa tarefa. <br>
-Desafio disponibilidade pelo site <a href="frontendmentor.io">_Frontend Mentor_</a>.
+Foram usados conhecimentos de _Html_ semantico e _Css_ para realizar essa tarefa.
 
+Desafio disponibilizado pelo site <a href="https://www.frontendmentor.io/">_Frontend Mentor_</a>.
